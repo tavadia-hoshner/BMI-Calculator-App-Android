@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalc - Hoshner Tavadia</string>
+    <string-array name="Units_Weight">
+        <item>Kg</item>
+        <item>Lb</item>
+    </string-array>
+    <string-array name="Units_Height">
+        <item>Inch</item>
+        <item>Foot</item>
+    </string-array>
+</resources>
